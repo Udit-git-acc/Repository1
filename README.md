@@ -1,1 +1,33 @@
 # Repository1
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> My portfolio</title>
+    </head>
+<body background="C:\Users\HP\OneDrive\Desktop\images.jfif">
+    <img src="C:\Users\HP\OneDrive\Desktop\Coder.jpg" alt="Trulli" width="200" height="150">
+    <h1 style="color:Snow;"> HI,</h1>
+    <h1 style="color:Snow;"> I AM UDIT AGARWAL</h1>
+    <h2 style="color:Snow;"> FROM IIT JODHPUR</h2>   
+    <h3 style="color:Snow;"> MECHANICAL ENGINEERING FRESHER</h3>
+    <h4 style="color:Snow;"><U>CONTACT ME AT:</U></h4>
+    <a href = "https://www.instagram.com/udit__2002/"><img src="C:\Users\HP\OneDrive\Desktop\insta.jpg" width="20" height="20"></a>
+    <a href = "https://www.facebook.com/udit.agarwal.5895"><img src="C:\Users\HP\OneDrive\Desktop\FB.jpg" width="20" height="20"></a>
+    <a href = "https://www.linkedin.com/in/udit-agarwal-504b721b6/"><img src="C:\Users\HP\OneDrive\Desktop\Linin.jpg" width="20" height="20"></a>
+    <h4 style="color:Snow;"><U>FORMAL</U></h4>
+    <p style="color:honeydew">
+        Presently at the basic of coding.,<br>
+        Save some Idea of C++ and Java.<br>
+        Presently working on my Python skill.<br>
+        This HTML file is my first HTML work.<br>
+        Have intrest in cars and robots.<br>
+    </p>
+    <h4 style="color:Snow;"><u>INFORMAL</u></h4>
+    <p style="color:Linen">
+            I am enthusiastic to explore this world of digital signals and data.<br>
+            Improving myself every day.<br>
+            Try to do work the best I can and ASAP!<br>
+            Improving my problem solving skills.<br>
+    </p>
+</body>
+</html>
